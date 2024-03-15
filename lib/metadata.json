@@ -1,0 +1,315 @@
+{
+  "vaultName": "bsp-quicknotes",
+  "lastExport": 1710478187183,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title outliner-plugin-dnd fancy-code fancy-highlight callout-original",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "To Export/(Org) Apprentices of the ADA.md",
+    "To Export/(Org) Armed Detective Agency.md",
+    "To Export/(Org) Guild Undead.md",
+    "To Export/(Org) Gunslinger Kids.md",
+    "To Export/(Org) Port Mafia.md",
+    "To Export/(Org) The Hawks.md",
+    "To Export/02 jc.png",
+    "To Export/04 chalmers.png",
+    "To Export/08 kazukou.png",
+    "To Export/20 shirley ann.png",
+    "To Export/Chalmers Fitzgerald.md",
+    "To Export/Edogawa Poe Ranpo.md",
+    "To Export/Eliot Fitzgerald.md",
+    "To Export/Ema Okura-Camarão.md",
+    "To Export/Fukuzawa (Mori) Ougai.md",
+    "To Export/Fukuzawa Yukichi.md",
+    "To Export/Gen Oguri.md",
+    "To Export/index.md",
+    "To Export/Júlio César (J.C.) Okura-Camarão.md",
+    "To Export/Kazukou Fukuzawa.md",
+    "To Export/Nakahara-Dazai Osamu.md",
+    "To Export/Nobuo Suehiro.md",
+    "To Export/Shirley Ann (Grau) Melville.md",
+    "To Export/tsuneko and kazukou alt.png",
+    "To Export/Tsuneko Fukuzawa.md",
+    "To Export/Yosano-Ozaki Akiko.md",
+    "To Export/Zelda Fitzgerald Jr..md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "To Export/(Org) Apprentices of the ADA.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 669,
+      "exportedPath": "To Export/(Org) Apprentices of the ADA.html",
+      "dependencies": []
+    },
+    "To Export/(Org) Armed Detective Agency.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1210,
+      "exportedPath": "To Export/(Org) Armed Detective Agency.html",
+      "dependencies": []
+    },
+    "To Export/(Org) Gunslinger Kids.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 686,
+      "exportedPath": "To Export/(Org) Gunslinger Kids.html",
+      "dependencies": []
+    },
+    "To Export/(Org) Port Mafia.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 939,
+      "exportedPath": "To Export/(Org) Port Mafia.html",
+      "dependencies": []
+    },
+    "To Export/(Org) The Hawks.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 643,
+      "exportedPath": "To Export/(Org) The Hawks.html",
+      "dependencies": []
+    },
+    "To Export/Edogawa Poe Ranpo.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1501,
+      "exportedPath": "To Export/Edogawa Poe Ranpo.html",
+      "dependencies": []
+    },
+    "To Export/Ema Okura-Camarão.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 360,
+      "exportedPath": "To Export/Ema Okura-Camarão.html",
+      "dependencies": []
+    },
+    "To Export/Fukuzawa (Mori) Ougai.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1726,
+      "exportedPath": "To Export/Fukuzawa (Mori) Ougai.html",
+      "dependencies": []
+    },
+    "To Export/Fukuzawa Yukichi.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1256,
+      "exportedPath": "To Export/Fukuzawa Yukichi.html",
+      "dependencies": []
+    },
+    "To Export/Júlio César (J.C.) Okura-Camarão.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1627,
+      "exportedPath": "To Export/Júlio César (J.C.) Okura-Camarão.html",
+      "dependencies": []
+    },
+    "To Export/Kazukou Fukuzawa.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 5285,
+      "exportedPath": "To Export/Kazukou Fukuzawa.html",
+      "dependencies": []
+    },
+    "To Export/Nakahara-Dazai Osamu.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1417,
+      "exportedPath": "To Export/Nakahara-Dazai Osamu.html",
+      "dependencies": []
+    },
+    "To Export/Nobuo Suehiro.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 362,
+      "exportedPath": "To Export/Nobuo Suehiro.html",
+      "dependencies": []
+    },
+    "To Export/Shirley Ann (Grau) Melville.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 366,
+      "exportedPath": "To Export/Shirley Ann (Grau) Melville.html",
+      "dependencies": []
+    },
+    "To Export/Tsuneko Fukuzawa.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 365,
+      "exportedPath": "To Export/Tsuneko Fukuzawa.html",
+      "dependencies": []
+    },
+    "To Export/Yosano-Ozaki Akiko.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1449,
+      "exportedPath": "To Export/Yosano-Ozaki Akiko.html",
+      "dependencies": []
+    },
+    "To Export/index.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1337,
+      "exportedPath": "To Export/index.html",
+      "dependencies": []
+    },
+    "To Export/02 jc.png": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 336230,
+      "exportedPath": "To Export/02 jc.png",
+      "dependencies": []
+    },
+    "To Export/08 kazukou.png": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 260781,
+      "exportedPath": "To Export/08 kazukou.png",
+      "dependencies": []
+    },
+    "To Export/20 shirley ann.png": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 107364,
+      "exportedPath": "To Export/20 shirley ann.png",
+      "dependencies": []
+    },
+    "To Export/tsuneko and kazukou alt.png": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 392357,
+      "exportedPath": "To Export/tsuneko and kazukou alt.png",
+      "dependencies": []
+    },
+    "To Export/(Org) Guild Undead.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 612,
+      "exportedPath": "To Export/(Org) Guild Undead.html",
+      "dependencies": []
+    },
+    "To Export/04 chalmers.png": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 430591,
+      "exportedPath": "To Export/04 chalmers.png",
+      "dependencies": []
+    },
+    "To Export/Chalmers Fitzgerald.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 1259,
+      "exportedPath": "To Export/Chalmers Fitzgerald.html",
+      "dependencies": []
+    },
+    "To Export/Eliot Fitzgerald.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 362,
+      "exportedPath": "To Export/Eliot Fitzgerald.html",
+      "dependencies": []
+    },
+    "To Export/Gen Oguri.md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 360,
+      "exportedPath": "To Export/Gen Oguri.html",
+      "dependencies": []
+    },
+    "To Export/Zelda Fitzgerald Jr..md": {
+      "modifiedTime": 1710478187183,
+      "sourceSize": 366,
+      "exportedPath": "To Export/Zelda Fitzgerald Jr..html",
+      "dependencies": []
+    }
+  }
+}
